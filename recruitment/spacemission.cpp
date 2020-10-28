@@ -3,5 +3,5 @@
 class Space{
 
 public:
-	int ship;
+	int ships;
 };
